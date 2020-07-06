@@ -1,0 +1,13 @@
+.header{
+background: cyan;
+height: 100px;
+}
+.main{
+background: plum;
+height: 500px;
+}
+.footer{
+background:powderblue;
+height: 50px;
+}
+
